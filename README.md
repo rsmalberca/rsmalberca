@@ -1,6 +1,19 @@
 # 💫 About Me
 Hey!! I'm Renzo San Martin, Junior Full Stack Developer. I am passionate about building innovative and user-friendly applications that enhance the digital experience. My proficiency in both front-end and back-end development allows me to create seamless and efficient web solutions that meet client needs. I have a strong foundation in programming languages such as HTML5, CSS3, and JavaScript, as well as experience with web development frameworks like React. With a keen eye for detail and a constant drive to learn and improve my skills, I am dedicated to creating high-quality code that delivers exceptional results. <br><br>Let's connect and collaborate on your next project!<br>
 
+## 🔬 Why me?
+There are several reasons why I believe I would be a valuable addition to your team:
+
+🎯 Versatility
+
+🎯 Dedication to Quality
+
+🎯 Passion for Learning
+
+🎯 Strong Communication Skills
+
+Overall, I am confident that my skills, dedication, and passion for web development make me a strong candidate for any Full Stack Developer position. I am excited about the opportunity to contribute to your team and help bring your projects to life.
+
 # 💻 Tech Stack
 <table><tr><td valign="top" width="33%">
 
