@@ -1,5 +1,6 @@
 # 💫 About Me
-Hey!! I'm Renzo San Martin, Junior Full Stack Developer. I am passionate about building innovative and user-friendly applications that enhance the digital experience. My proficiency in both front-end and back-end development allows me to create seamless and efficient web solutions that meet client needs. I have a strong foundation in programming languages such as HTML5, CSS3, and JavaScript, as well as experience with web development frameworks like React. With a keen eye for detail and a constant drive to learn and improve my skills, I am dedicated to creating high-quality code that delivers exceptional results. <br><br>Let's connect and collaborate on your next project!<br>
+Hey there!! I'm Renzo San Martin, Full Stack Developer.
+<br/>I have a strong foundation in programming languages such as HTML5, CSS3, and JavaScript, as well as experience with web development frameworks like React. With a keen eye for detail and a constant drive to learn and improve my skills, I am dedicated to creating high-quality code that delivers exceptional results. <br><br>Let's connect and collaborate on your next project!<br>
 
 ## 🔬 Why me?
 There are several reasons why I believe I would be a valuable addition to your team:
@@ -68,7 +69,7 @@ Overall, I am confident that my skills, dedication, and passion for web developm
 <a href="https://twitter.com/rsmalberca" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/renzo-san-martin-alberca-fullstack-dev/" target="_blank">
+<a href="https://www.linkedin.com/in/renzo-san-martin-alberca-fullstack-dev/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/rsmalberca" target="_blank">
