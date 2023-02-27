@@ -1,9 +1,17 @@
 ![](/assets/GIF%20rsmalberca_final.gif)
 
-# 💫 About Me
+# 🚀 About Me
 
-Hey there!! I'm Renzo San Martin, Full Stack Developer.
-<br/>I have a strong foundation in programming languages such as HTML5, CSS3, and JavaScript, as well as experience with web development frameworks like React. With a keen eye for detail and a constant drive to learn and improve my skills, I am dedicated to creating high-quality code that delivers exceptional results. <br><br>Let's connect and collaborate on your next project!<br>
+Hey there!!
+
+I'm Renzo San Martin, Full Stack Developer.
+I have a strong foundation in programming languages such as HTML5, CSS3, and JavaScript, as well as experience with web development frameworks like React. With a keen eye for detail and a constant drive to learn and improve my skills, I am dedicated to creating high-quality code that delivers exceptional results.
+
+Let's connect and collaborate on your next project!!
+
+```
+const contact = {email : "renzo.sanmartinalberca@gmail.com"}
+```
 
 ## 🔬 Why me?
 
